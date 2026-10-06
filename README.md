@@ -123,7 +123,3 @@ If a cycle prints "No listings found in the response" the page layout changed or
 eBay served a challenge page. Run with `-debug` and check the reported status
 code; `-once` is the fastest way to test a new configuration.
 
-## TODO
-
-- Remove old database entries
-- More detailed info per listing (country, seller, shipping)
