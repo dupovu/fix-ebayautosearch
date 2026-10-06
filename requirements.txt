@@ -1,0 +1,6 @@
+lxml
+requests
+urllib3
+
+aiogram>=3.0
+playwright>=1.40

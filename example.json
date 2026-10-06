@@ -1,0 +1,17 @@
+{
+  "url": "https://www.ebay.es/sch/i.html?_nkw=ps5&_sacat=0&_sop=10",
+  "sleep": 60,
+  "jitter": 45,
+  "minDelay": 1.5,
+  "maxDelay": 4.0,
+  "pages": 1,
+  "maxItemsPerPage": 60,
+  "databaseFile": "database.db",
+  "telegramAPIKEY": "",
+  "telegramCHATID": "",
+  "sessionMode": "auto",
+  "headless": true,
+  "blockResources": true,
+  "proxy": "",
+  "userAgent": ""
+}
